@@ -10,11 +10,8 @@ Aqui você encontra a estrutura inicial com pastas organizadas e explicações d
 
 ```
 
-meu-app/
-
 ├── app/
     │ ├── screens/ # Telas do app (Home, Login, etc.)
-
 │ ├── components/ # Componentes reutilizáveis (Botões, Cards, etc.)
 
 │ ├── navigation/ # Configuração de rotas e navegação
